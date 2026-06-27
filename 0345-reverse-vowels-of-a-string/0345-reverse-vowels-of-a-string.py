@@ -10,10 +10,9 @@ class Solution:
             if l1[r].lower() not in "aeiou":
                 r-=1
                 continue
-            if l1[l].lower() in "aeiou" and l1[r].lower() in "aeiou":
-                temp=l1[l]
-                l1[l]=l1[r]
-                l1[r]=temp
+            temp=l1[l]
+            l1[l]=l1[r]
+            l1[r]=temp
             l+=1
             r-=1
         return "".join(l1)
