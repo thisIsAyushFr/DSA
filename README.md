@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Calm-ayush/DSA/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Greedy
 |  |
@@ -46,8 +47,13 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
