@@ -23,6 +23,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
 |  |
@@ -33,11 +34,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Calm-ayush/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
