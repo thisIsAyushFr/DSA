@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Calm-ayush/DSA/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -24,6 +25,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -51,6 +53,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
