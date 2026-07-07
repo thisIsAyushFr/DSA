@@ -69,4 +69,9 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Calm-ayush/DSA/tree/master/0009-palindrome-number) |
+| [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
