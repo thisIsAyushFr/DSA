@@ -47,6 +47,7 @@
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -58,6 +59,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
