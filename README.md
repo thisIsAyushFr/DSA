@@ -61,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Calm-ayush/DSA/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Calm-ayush/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Calm-ayush/DSA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
