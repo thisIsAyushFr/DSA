@@ -21,6 +21,7 @@
 | [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Calm-ayush/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
