@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Calm-ayush/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -66,6 +68,7 @@
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Calm-ayush/DSA/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -94,6 +97,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Calm-ayush/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Calm-ayush/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
@@ -109,6 +113,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Calm-ayush/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
