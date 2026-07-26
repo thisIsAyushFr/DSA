@@ -170,4 +170,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Calm-ayush/DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
