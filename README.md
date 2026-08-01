@@ -85,6 +85,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Calm-ayush/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Calm-ayush/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Calm-ayush/DSA/tree/master/0290-word-pattern) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Calm-ayush/DSA/tree/master/0009-palindrome-number) |
+| [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
