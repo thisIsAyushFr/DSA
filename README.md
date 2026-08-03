@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Calm-ayush/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Calm-ayush/DSA/tree/master/0197-rising-temperature) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
