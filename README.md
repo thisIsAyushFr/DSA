@@ -178,6 +178,7 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Calm-ayush/DSA/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Calm-ayush/DSA/tree/master/0197-rising-temperature) |
 ## Memoization
 |  |
