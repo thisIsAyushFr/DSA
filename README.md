@@ -27,6 +27,7 @@
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Calm-ayush/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
@@ -76,6 +77,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Calm-ayush/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
