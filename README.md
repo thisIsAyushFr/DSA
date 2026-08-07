@@ -4,10 +4,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Calm-ayush/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Calm-ayush/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -136,6 +138,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Calm-ayush/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Calm-ayush/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
