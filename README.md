@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/Calm-ayush/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Calm-ayush/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Calm-ayush/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0088-merge-sorted-array) |
@@ -152,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -192,4 +195,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
