@@ -191,6 +191,7 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/Calm-ayush/DSA/tree/master/0177-nth-highest-salary) |
 | [0197-rising-temperature](https://github.com/Calm-ayush/DSA/tree/master/0197-rising-temperature) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Calm-ayush/DSA/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Memoization
 |  |
 | ------- |
