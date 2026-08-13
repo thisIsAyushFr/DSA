@@ -35,6 +35,7 @@
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1052-grumpy-bookstore-owner](https://github.com/Calm-ayush/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Calm-ayush/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Calm-ayush/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/Calm-ayush/DSA/tree/master/1052-grumpy-bookstore-owner) |
 ## Simulation
 |  |
 | ------- |
