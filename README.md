@@ -39,6 +39,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Calm-ayush/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
 |  |
@@ -89,6 +90,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Calm-ayush/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Calm-ayush/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Calm-ayush/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Simulation
 |  |
 | ------- |
