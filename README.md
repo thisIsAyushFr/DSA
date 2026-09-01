@@ -12,6 +12,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Calm-ayush/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/thisIsAyushFr/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/thisIsAyushFr/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
