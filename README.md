@@ -13,6 +13,7 @@
 | [0206-reverse-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thisIsAyushFr/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/thisIsAyushFr/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
@@ -181,6 +182,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
