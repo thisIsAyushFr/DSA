@@ -187,6 +187,7 @@
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3871-count-commas-in-range-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Brainteaser
 |  |
 | ------- |
