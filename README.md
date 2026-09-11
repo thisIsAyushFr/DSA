@@ -131,6 +131,7 @@
 | [0551-student-attendance-record-i](https://github.com/thisIsAyushFr/DSA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/thisIsAyushFr/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Calm-ayush/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -276,4 +277,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/thisIsAyushFr/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
