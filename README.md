@@ -189,6 +189,7 @@
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Brainteaser
@@ -208,6 +209,7 @@
 | [0136-single-number](https://github.com/Calm-ayush/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
