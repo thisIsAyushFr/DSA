@@ -179,6 +179,7 @@
 | [0278-first-bad-version](https://github.com/Calm-ayush/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Calm-ayush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
@@ -190,6 +191,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
+| [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
