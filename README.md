@@ -182,6 +182,7 @@
 | [0278-first-bad-version](https://github.com/Calm-ayush/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/thisIsAyushFr/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Calm-ayush/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -280,6 +281,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Calm-ayush/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/thisIsAyushFr/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
