@@ -51,6 +51,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Calm-ayush/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Calm-ayush/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -112,6 +114,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Calm-ayush/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -196,6 +199,7 @@
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -221,6 +225,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
@@ -294,4 +299,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/thisIsAyushFr/DSA/tree/master/0796-rotate-string) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
