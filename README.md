@@ -203,6 +203,7 @@
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -248,6 +249,7 @@
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
