@@ -62,6 +62,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/thisIsAyushFr/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
@@ -217,6 +218,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Brainteaser
@@ -243,11 +245,13 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Calm-ayush/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Calm-ayush/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +264,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Calm-ayush/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -330,4 +335,8 @@
 |  |
 | ------- |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 <!---LeetCode Topics End-->
