@@ -160,6 +160,7 @@
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
 |  |
