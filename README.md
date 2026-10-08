@@ -156,6 +156,7 @@
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/thisIsAyushFr/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/thisIsAyushFr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Calm-ayush/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/thisIsAyushFr/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
@@ -326,6 +327,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Calm-ayush/DSA/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/thisIsAyushFr/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/thisIsAyushFr/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
