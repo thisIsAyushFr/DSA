@@ -107,6 +107,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -133,6 +134,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/thisIsAyushFr/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -166,6 +168,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
