@@ -359,4 +359,20 @@
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/thisIsAyushFr/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/thisIsAyushFr/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/thisIsAyushFr/DSA/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/thisIsAyushFr/DSA/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/thisIsAyushFr/DSA/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/thisIsAyushFr/DSA/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
