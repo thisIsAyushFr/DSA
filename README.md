@@ -46,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Calm-ayush/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/thisIsAyushFr/DSA/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Calm-ayush/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/thisIsAyushFr/DSA/tree/master/0414-third-maximum-number) |
@@ -280,6 +281,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/thisIsAyushFr/DSA/tree/master/0289-game-of-life) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -375,4 +377,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/thisIsAyushFr/DSA/tree/master/0101-symmetric-tree) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/thisIsAyushFr/DSA/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
