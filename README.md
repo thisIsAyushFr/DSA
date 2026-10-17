@@ -65,6 +65,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/thisIsAyushFr/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -97,6 +98,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/thisIsAyushFr/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## String
 |  |
