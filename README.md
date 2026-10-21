@@ -66,6 +66,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -140,6 +141,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -235,6 +237,7 @@
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
