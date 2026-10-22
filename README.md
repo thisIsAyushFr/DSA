@@ -239,6 +239,7 @@
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/thisIsAyushFr/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
