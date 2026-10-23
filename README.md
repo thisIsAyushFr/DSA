@@ -72,6 +72,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/thisIsAyushFr/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/thisIsAyushFr/DSA/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Greedy
@@ -267,6 +268,7 @@
 | [0137-single-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/thisIsAyushFr/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Number Theory
 |  |
 | ------- |
