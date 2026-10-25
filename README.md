@@ -69,6 +69,7 @@
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -104,6 +105,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
+| [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting Sort
 |  |
@@ -117,6 +119,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/thisIsAyushFr/DSA/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
