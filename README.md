@@ -133,6 +133,7 @@
 | [0217-contains-duplicate](https://github.com/Calm-ayush/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Calm-ayush/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Calm-ayush/DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Calm-ayush/DSA/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Calm-ayush/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +241,7 @@
 | [0009-palindrome-number](https://github.com/Calm-ayush/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0264-ugly-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Calm-ayush/DSA/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Calm-ayush/DSA/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
@@ -263,6 +265,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Calm-ayush/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thisIsAyushFr/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/thisIsAyushFr/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/thisIsAyushFr/DSA/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
