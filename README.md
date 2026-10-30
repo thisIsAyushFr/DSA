@@ -56,6 +56,7 @@
 | [0414-third-maximum-number](https://github.com/thisIsAyushFr/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Calm-ayush/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/thisIsAyushFr/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/thisIsAyushFr/DSA/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/Calm-ayush/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
@@ -143,6 +144,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Calm-ayush/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/thisIsAyushFr/DSA/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/thisIsAyushFr/DSA/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/thisIsAyushFr/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1189-maximum-number-of-balloons](https://github.com/Calm-ayush/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -173,6 +175,7 @@
 | [0392-is-subsequence](https://github.com/Calm-ayush/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Calm-ayush/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/thisIsAyushFr/DSA/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/thisIsAyushFr/DSA/tree/master/0500-keyboard-row) |
 | [0551-student-attendance-record-i](https://github.com/thisIsAyushFr/DSA/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/Calm-ayush/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Calm-ayush/DSA/tree/master/0771-jewels-and-stones) |
