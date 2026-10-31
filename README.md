@@ -69,6 +69,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Calm-ayush/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3151-special-array-i](https://github.com/thisIsAyushFr/DSA/tree/master/3151-special-array-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
