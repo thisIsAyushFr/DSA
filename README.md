@@ -68,6 +68,7 @@
 | [1052-grumpy-bookstore-owner](https://github.com/Calm-ayush/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Calm-ayush/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3151-special-array-i](https://github.com/thisIsAyushFr/DSA/tree/master/3151-special-array-i) |
@@ -109,6 +110,7 @@
 | [0881-boats-to-save-people](https://github.com/Calm-ayush/DSA/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
@@ -222,6 +224,7 @@
 | [0917-reverse-only-letters](https://github.com/Calm-ayush/DSA/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/Calm-ayush/DSA/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Calm-ayush/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/thisIsAyushFr/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
@@ -241,6 +244,7 @@
 | [0441-arranging-coins](https://github.com/thisIsAyushFr/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Calm-ayush/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
