@@ -78,6 +78,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3589-count-prime-gap-balanced-subarrays](https://github.com/thisIsAyushFr/DSA/tree/master/3589-count-prime-gap-balanced-subarrays) |
@@ -251,6 +252,7 @@
 | [0704-binary-search](https://github.com/Calm-ayush/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Calm-ayush/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -326,6 +328,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/thisIsAyushFr/DSA/tree/master/0289-game-of-life) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
+| [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Calm-ayush/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Heap (Priority Queue)
@@ -450,4 +453,12 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/thisIsAyushFr/DSA/tree/master/1114-print-in-order) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
