@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Calm-ayush/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/thisIsAyushFr/DSA/tree/master/0006-zigzag-conversion) |
 | [0058-length-of-last-word](https://github.com/Calm-ayush/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Calm-ayush/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Calm-ayush/DSA/tree/master/0168-excel-sheet-column-title) |
