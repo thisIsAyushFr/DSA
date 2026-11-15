@@ -202,6 +202,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3340-check-balanced-string](https://github.com/thisIsAyushFr/DSA/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/thisIsAyushFr/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
