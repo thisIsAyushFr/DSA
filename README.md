@@ -200,6 +200,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/thisIsAyushFr/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3340-check-balanced-string](https://github.com/thisIsAyushFr/DSA/tree/master/3340-check-balanced-string) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/thisIsAyushFr/DSA/tree/master/0289-game-of-life) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/thisIsAyushFr/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/3498-reverse-degree-of-a-string) |
