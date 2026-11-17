@@ -71,6 +71,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Calm-ayush/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thisIsAyushFr/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Calm-ayush/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/thisIsAyushFr/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Calm-ayush/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/thisIsAyushFr/DSA/tree/master/2747-count-zero-request-servers) |
 | [3151-special-array-i](https://github.com/thisIsAyushFr/DSA/tree/master/3151-special-array-i) |
@@ -200,6 +201,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/thisIsAyushFr/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/thisIsAyushFr/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thisIsAyushFr/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -393,6 +395,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/thisIsAyushFr/DSA/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/thisIsAyushFr/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Euclidean Algorithm
 |  |
 | ------- |
