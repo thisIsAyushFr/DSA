@@ -207,6 +207,7 @@
 | [1736-latest-time-by-replacing-hidden-digits](https://github.com/thisIsAyushFr/DSA/tree/master/1736-latest-time-by-replacing-hidden-digits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Calm-ayush/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Calm-ayush/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/thisIsAyushFr/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/thisIsAyushFr/DSA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/thisIsAyushFr/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/thisIsAyushFr/DSA/tree/master/2423-remove-letter-to-equalize-frequency) |
