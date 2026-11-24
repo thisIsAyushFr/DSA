@@ -78,6 +78,7 @@
 | [3151-special-array-i](https://github.com/thisIsAyushFr/DSA/tree/master/3151-special-array-i) |
 | [3200-maximum-height-of-a-triangle](https://github.com/thisIsAyushFr/DSA/tree/master/3200-maximum-height-of-a-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/thisIsAyushFr/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/thisIsAyushFr/DSA/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3467-transform-array-by-parity](https://github.com/thisIsAyushFr/DSA/tree/master/3467-transform-array-by-parity) |
@@ -283,6 +284,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thisIsAyushFr/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thisIsAyushFr/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/thisIsAyushFr/DSA/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/thisIsAyushFr/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/thisIsAyushFr/DSA/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/thisIsAyushFr/DSA/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/thisIsAyushFr/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
